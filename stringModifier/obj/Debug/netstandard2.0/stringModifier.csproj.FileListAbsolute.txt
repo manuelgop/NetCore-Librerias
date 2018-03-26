@@ -1,0 +1,16 @@
+/Users/apple/Documents/stringModifier/bin/Debug/netstandard2.0/stringModifier.deps.json
+/Users/apple/Documents/stringModifier/bin/Debug/netstandard2.0/stringModifier.dll
+/Users/apple/Documents/stringModifier/bin/Debug/netstandard2.0/stringModifier.pdb
+/Users/apple/Documents/stringModifier/obj/Debug/netstandard2.0/stringModifier.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/stringModifier/obj/Debug/netstandard2.0/stringModifier.AssemblyInfoInputs.cache
+/Users/apple/Documents/stringModifier/obj/Debug/netstandard2.0/stringModifier.AssemblyInfo.cs
+/Users/apple/Documents/stringModifier/obj/Debug/netstandard2.0/stringModifier.dll
+/Users/apple/Documents/stringModifier/obj/Debug/netstandard2.0/stringModifier.pdb
+/Users/apple/Documents/libraryRunner/stringModifier/bin/Debug/netstandard2.0/stringModifier.deps.json
+/Users/apple/Documents/libraryRunner/stringModifier/bin/Debug/netstandard2.0/stringModifier.dll
+/Users/apple/Documents/libraryRunner/stringModifier/bin/Debug/netstandard2.0/stringModifier.pdb
+/Users/apple/Documents/libraryRunner/stringModifier/obj/Debug/netstandard2.0/stringModifier.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/libraryRunner/stringModifier/obj/Debug/netstandard2.0/stringModifier.AssemblyInfoInputs.cache
+/Users/apple/Documents/libraryRunner/stringModifier/obj/Debug/netstandard2.0/stringModifier.AssemblyInfo.cs
+/Users/apple/Documents/libraryRunner/stringModifier/obj/Debug/netstandard2.0/stringModifier.dll
+/Users/apple/Documents/libraryRunner/stringModifier/obj/Debug/netstandard2.0/stringModifier.pdb

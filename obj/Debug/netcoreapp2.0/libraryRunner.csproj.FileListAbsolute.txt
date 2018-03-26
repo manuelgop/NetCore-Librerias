@@ -1,0 +1,12 @@
+/Users/apple/Documents/libraryRunner/bin/Debug/netcoreapp2.0/libraryRunner.deps.json
+/Users/apple/Documents/libraryRunner/bin/Debug/netcoreapp2.0/libraryRunner.runtimeconfig.json
+/Users/apple/Documents/libraryRunner/bin/Debug/netcoreapp2.0/libraryRunner.runtimeconfig.dev.json
+/Users/apple/Documents/libraryRunner/bin/Debug/netcoreapp2.0/libraryRunner.dll
+/Users/apple/Documents/libraryRunner/bin/Debug/netcoreapp2.0/libraryRunner.pdb
+/Users/apple/Documents/libraryRunner/bin/Debug/netcoreapp2.0/stringModifier.dll
+/Users/apple/Documents/libraryRunner/bin/Debug/netcoreapp2.0/stringModifier.pdb
+/Users/apple/Documents/libraryRunner/obj/Debug/netcoreapp2.0/libraryRunner.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/libraryRunner/obj/Debug/netcoreapp2.0/libraryRunner.AssemblyInfoInputs.cache
+/Users/apple/Documents/libraryRunner/obj/Debug/netcoreapp2.0/libraryRunner.AssemblyInfo.cs
+/Users/apple/Documents/libraryRunner/obj/Debug/netcoreapp2.0/libraryRunner.dll
+/Users/apple/Documents/libraryRunner/obj/Debug/netcoreapp2.0/libraryRunner.pdb
